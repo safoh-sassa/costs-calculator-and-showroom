@@ -21,3 +21,5 @@ Email: rani@yahoo.com - Password: 1
 
 Require:
 wampserver3_x64_apache2.4.17_mysql5.7.9_php5.6.16_php7.0.0
+
+import costs.sql to MySQL for demo data
